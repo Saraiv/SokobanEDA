@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/Character4.png","P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/bin/DesktopGL/Character4.xnb","TextureProcessor","Texture2DContent",1668,8817,1,6038288
+"P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/Crate_Beige.png","P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/bin/DesktopGL/Crate_Beige.xnb","TextureProcessor","Texture2DContent",1022,16469,0,0115812
+"P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/EndPoint_Black.png","P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/bin/DesktopGL/EndPoint_Black.xnb","TextureProcessor","Texture2DContent",520,4181,0,0152657
+"P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/GroundGravel_Grass.png","P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/bin/DesktopGL/GroundGravel_Grass.xnb","TextureProcessor","Texture2DContent",533,16469,0,0129424
+"P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/Wall_Black.png","P:/Escola/SegundoSemestre/Jogos/Sokoban/Content/bin/DesktopGL/Wall_Black.xnb","TextureProcessor","Texture2DContent",1437,16469,0,0087064
